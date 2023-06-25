@@ -41,7 +41,7 @@ const BLOG = {
     'https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@300&display=swap'
   ],
   FONT_SANS: [
-    'LXGW WenKai'
+    'LXGW WenKai',
     'Bitter',
     '"PingFang SC"',
     '-apple-system',
@@ -61,7 +61,7 @@ const BLOG = {
     '"Apple Color Emoji"'
   ],
   FONT_SERIF: [
-    'LXGW WenKai'
+    'LXGW WenKai',
     'Bitter',
     '"Noto Serif SC"',
     'SimSun',
